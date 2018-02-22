@@ -1,0 +1,39 @@
+﻿  cube.cpp
+c:\users\kvssrt\documents\itcs_6120\opengl_programming_guide\include\vmath.h(1022): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(57): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(57): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(171): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(195): warning C4305: '=': truncation from 'double' to 'GLfloat'
+cube.obj : error LNK2019: unresolved external symbol gl3wInit referenced in function main
+cube.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+cube.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+cube.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+cube.obj : error LNK2019: unresolved external symbol glfwDestroyWindow referenced in function main
+cube.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+cube.obj : error LNK2019: unresolved external symbol glfwGetWindowAttrib referenced in function main
+cube.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+cube.obj : error LNK2019: unresolved external symbol glfwSetKeyCallback referenced in function main
+cube.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+cube.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+cube.obj : error LNK2019: unresolved external symbol LoadShaders referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+cube.obj : error LNK2001: unresolved external symbol gl3wClear
+cube.obj : error LNK2001: unresolved external symbol gl3wDisable
+cube.obj : error LNK2001: unresolved external symbol gl3wEnable
+cube.obj : error LNK2001: unresolved external symbol gl3wGetError
+cube.obj : error LNK2001: unresolved external symbol gl3wDrawArrays
+cube.obj : error LNK2001: unresolved external symbol gl3wBindBuffer
+cube.obj : error LNK2001: unresolved external symbol gl3wGenBuffers
+cube.obj : error LNK2001: unresolved external symbol gl3wBufferData
+cube.obj : error LNK2001: unresolved external symbol gl3wBufferSubData
+cube.obj : error LNK2001: unresolved external symbol gl3wEnableVertexAttribArray
+cube.obj : error LNK2001: unresolved external symbol gl3wGetAttribLocation
+cube.obj : error LNK2001: unresolved external symbol gl3wGetUniformLocation
+cube.obj : error LNK2001: unresolved external symbol gl3wUseProgram
+cube.obj : error LNK2001: unresolved external symbol gl3wUniformMatrix4fv
+cube.obj : error LNK2001: unresolved external symbol gl3wVertexAttribPointer
+cube.obj : error LNK2001: unresolved external symbol gl3wClearBufferfv
+cube.obj : error LNK2001: unresolved external symbol gl3wBindVertexArray
+cube.obj : error LNK2001: unresolved external symbol gl3wGenVertexArrays
+..\..\..\..\OpenGL_Programming_Guide/lib\vermilion_d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+..\..\..\..\OpenGL_Programming_Guide/lib\glfw3_d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\KVSSRT\Documents\ITCS_6120\ITCS_6120_Cube\make\MSVS 2017\x64\Debug\Cube.exe : fatal error LNK1120: 30 unresolved externals

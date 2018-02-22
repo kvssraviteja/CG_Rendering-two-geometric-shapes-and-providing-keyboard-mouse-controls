@@ -1,0 +1,18 @@
+﻿  cube.cpp
+c:\users\kvssrt\documents\itcs_6120\opengl_programming_guide\include\vmath.h(1022): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(66): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(66): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(194): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(244): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(254): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(259): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(383): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(384): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(385): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(386): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(387): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(395): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(412): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kvssrt\documents\itcs_6120\itcs_6120_cube\src\cube.cpp(518): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Project_1_1.vcxproj -> C:\Users\KVSSRT\Documents\ITCS_6120\ITCS_6120_Cube\make\MSVS 2017\Debug\Cube.exe
+  Project_1_1.vcxproj -> C:\Users\KVSSRT\Documents\ITCS_6120\ITCS_6120_Cube\make\MSVS 2017\Debug\Cube.pdb (Partial PDB)
