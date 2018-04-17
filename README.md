@@ -12,6 +12,6 @@ An interactive keyboard and mouse controls for controlling the view, like rotati
 clipping distance etc.,  are implemented. 
 
 ## Requirements
-C++ 
-OpenGL 4.5
-Visual Studio Enterprise 2017
+- C++ 
+- OpenGL 4.5
+- Visual Studio Enterprise 2017
